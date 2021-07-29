@@ -2,6 +2,6 @@ class sample
 {
 	public static void main String[]args
 	{ 
-	  sop();
+	  system.out.println(day2 changes);
 	}
 }
